@@ -2,3 +2,6 @@ avocado
 tonat
 løk
 chili
+sitron
+koriander
+salt
