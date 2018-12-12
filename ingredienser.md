@@ -17,3 +17,5 @@
 
 
 [Nasjonalbiblioteket](https://nb.no)
+
+[Fremgangmåte](https://github.com/nilsoslo/guacamole_oppskrift/blob/master/fremgangsmate.txt)
